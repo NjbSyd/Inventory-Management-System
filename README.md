@@ -9,7 +9,7 @@
 |Najeeb Said|FA20-BSE-023|
 |Asad Waseem|FA20-BSE-153|
 ***
- # Problem Statement
+ # Project Info
 
 A businessman wants to digitise his business in order to do the following.
 *	Stock Storage
