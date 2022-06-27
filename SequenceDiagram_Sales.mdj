@@ -292,7 +292,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBOQ/fi/mXHDA="
 									},
-									"points": "82:128;205:128",
+									"points": "86:128;205:128",
 									"nameLabel": {
 										"$ref": "AAAAAAGBORAszPmyAFI="
 									},
@@ -305,19 +305,6 @@
 									"activation": {
 										"$ref": "AAAAAAGBORAszPm1i1M="
 									}
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGBOP4bGfb1Qzg=",
-									"font": "Arial;13;0",
-									"left": 241,
-									"top": 136,
-									"width": 101.51806640625,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 10,
-									"edgePosition": 1,
-									"text": "2 : s1=StartSale()"
 								},
 								{
 									"_type": "UMLSeqMessageView",
@@ -1087,9 +1074,9 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 87,
-													"width": 121.3544921875,
+													"width": 129.29541015625,
 													"height": 13,
-													"text": "Lifeline1: Customer"
+													"text": "Customer: Customer"
 												},
 												{
 													"_type": "LabelView",
@@ -1120,7 +1107,7 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": 80,
-											"width": 131.3544921875,
+											"width": 139.29541015625,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGBOQ/fi/mTUAc="
@@ -1145,7 +1132,7 @@
 												"$ref": "AAAAAAGBOQ/fi/mQ/aw="
 											},
 											"font": "Arial;13;0",
-											"left": 82,
+											"left": 86,
 											"top": 105,
 											"width": 1,
 											"height": 478
@@ -1154,7 +1141,7 @@
 									"font": "Arial;13;0",
 									"left": 16,
 									"top": 40,
-									"width": 131.3544921875,
+									"width": 139.29541015625,
 									"height": 543,
 									"stereotypeDisplay": "icon",
 									"nameCompartment": {
@@ -1249,7 +1236,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 82,
+											"left": 86,
 											"top": 272,
 											"width": 14,
 											"height": 25
@@ -1262,7 +1249,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBOP1ECvZ5Lp0="
 									},
-									"points": "365:272;82:272",
+									"points": "365:272;86:272",
 									"nameLabel": {
 										"$ref": "AAAAAAGBOQ4bJfluEGk="
 									},
@@ -1373,7 +1360,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBOQ/fi/mXHDA="
 									},
-									"points": "82:323;372:323",
+									"points": "86:323;372:323",
 									"nameLabel": {
 										"$ref": "AAAAAAGBORFRbvn0Ho4="
 									},
@@ -1484,7 +1471,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBOQ/fi/mXHDA="
 									},
-									"points": "82:372;372:372",
+									"points": "86:372;372:372",
 									"nameLabel": {
 										"$ref": "AAAAAAGBOROIcfqf/3Y="
 									},
@@ -1708,7 +1695,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBOQ/fi/mXHDA="
 									},
-									"points": "82:437;205:437",
+									"points": "86:437;205:437",
 									"nameLabel": {
 										"$ref": "AAAAAAGBORTDJvra2JM="
 									},
@@ -2258,7 +2245,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 82,
+											"left": 86,
 											"top": 568,
 											"width": 14,
 											"height": 25
@@ -2271,7 +2258,7 @@
 									"tail": {
 										"$ref": "AAAAAAGBORawDftqzJg="
 									},
-									"points": "620:568;82:568",
+									"points": "620:568;86:568",
 									"nameLabel": {
 										"$ref": "AAAAAAGBORehdvuge1E="
 									},
@@ -2535,7 +2522,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBOPzPEfZCxzc="
 							},
-							"name": "Lifeline1",
+							"name": "Customer",
 							"represent": {
 								"$ref": "AAAAAAGBOQ/fi/mPR0s="
 							},
