@@ -1,0 +1,8 @@
+.main_title {
+    -fx-border-style: hidden;
+    -fx-background-color: #5F9CB7FF;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}

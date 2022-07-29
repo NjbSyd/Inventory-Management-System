@@ -1,0 +1,19 @@
+
+.btn{
+    -fx-background-radius: 10;
+    -fx-font-family: Arial;
+}
+.close_btn:hover{
+    -fx-cursor: hand;
+}
+.text-field{
+    -fx-border-color:black;
+    -fx-background-radius: 10;
+}
+
+.btn:hover{
+    -fx-background-color: #a959ff;
+    -fx-text-fill: white;
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+}

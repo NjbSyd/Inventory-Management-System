@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane fx:id="paymentRoot" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="oose.GUI.mainController">
+  <columnConstraints>
+    <ColumnConstraints />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="129.0" minHeight="0.0" prefHeight="41.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="337.0" minHeight="10.0" prefHeight="320.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="68.0" minHeight="5.0" prefHeight="32.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <HBox prefHeight="63.0" prefWidth="600.0" GridPane.columnIndex="1">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" ellipsisString="" prefHeight="60.0" prefWidth="693.0" text="Confirm Payment By Self And Generate Reciept" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </Label>
+            <FontAwesomeIcon fx:id="closeBtn" glyphName="CLOSE" onMouseClicked="#closePayment" size="2em" styleClass="close_btn" wrappingWidth="18.85714340209961" />
+         </children>
+      </HBox>
+      <Button fx:id="recordTransactionBtn" mnemonicParsing="false" onAction="#recordTransaction" prefHeight="25.0" prefWidth="601.0" text="Record Purchase" GridPane.columnIndex="1" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets left="200.0" right="200.0" />
+         </GridPane.margin>
+      </Button>
+   </children>
+</GridPane>

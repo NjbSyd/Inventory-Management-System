@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="337.0" prefWidth="592.0" stylesheets="@css/loading.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="oose.GUI.loadingController">
+   <ImageView fitHeight="337.0" fitWidth="623.0" onMouseEntered="#startApp" pickOnBounds="true" preserveRatio="true">
+      <Image url="@imgs/img.png" />
+   </ImageView>
+   <ProgressBar fx:id="loadingProgress" layoutY="314.0" mouseTransparent="true" prefHeight="18.0" prefWidth="593.0" style="-fx-accent: black;">
+      <cursor>
+         <Cursor fx:constant="NONE" />
+      </cursor>
+   </ProgressBar>
+</AnchorPane>

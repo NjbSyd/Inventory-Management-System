@@ -1,0 +1,27 @@
+.main_side_bar {
+    -fx-background-color: #869299;
+}
+
+.main_side_bar_title {
+    -fx-border-style: hidden;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+.main_side_bar_btn {
+    -fx-background-color: transparent;
+}
+
+.main_side_bar_btn:hover{
+    -fx-background-color: #a4bbec;
+}
+
+.main_side_bar_btn:pressed{
+    -fx-background-color: #84a5ee;
+}
+
+.table-view{
+    -fx-text-alignment: center;
+}
