@@ -1,14 +1,6 @@
 # OOSE-Project
 ## Inventory Management System
-### Group Members:
-|Name|Registration No|
-|-----------|---------|
-|Muhammad Kashan|FA20-BSE-008|
-|Wajid Akbar|FA20-BSE-014|
-|Hozefa Hassan Rizvi|FA20-BSE-019|
-|Najeeb Said|FA20-BSE-023|
-|Asad Waseem|FA20-BSE-153|
-***
+
  # Project Info
 
 A businessman wants to digitise his business in order to do the following.
