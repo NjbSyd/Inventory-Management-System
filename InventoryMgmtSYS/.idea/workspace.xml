@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed11fdc9-c751-4e6d-bf5c-bfc90c540747" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cssdialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/schema/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41e63acb-9389-4920-9177-139b9a163583/storage_v2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_synedra_validatorfx_0_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqlDataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryMgmtSYS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputFiles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aspose-cells-22.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fontawesomefx-8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/DB/DBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/DB/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/GUI/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/GUI/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/GUI/loadingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/GUI/loginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/GUI/mainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/itemsData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/loginData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/membersData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/oneItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/saleLineItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/data/transactionData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/logic/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/logic/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/logic/member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oose/logic/report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/membership.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/return.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/css/sale.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/imgs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/imgs/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/imgs/login2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/imgs/main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/loading.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/GUI/payment.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/oose/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/DB/DBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/DB/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/membership.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/return.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/css/sale.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/imgs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/imgs/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/imgs/login2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/imgs/main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/loading.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/loadingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/loginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/mainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/GUI/payment.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/itemsData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/loginData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/membersData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/oneItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/saleLineItems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/data/transactionData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/logic/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/logic/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/logic/member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oose/logic/report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/desktop.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2RIoPwphQmXzY6mjhIjfZitxFOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tcanj/Documents/GitHub/Inventory-Management-System/InventoryMgmtSYS/lib/mysql-connector-java-8.0.29.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oose.GUI.App" />
+      <module name="InventoryMgmtSYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oose.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed11fdc9-c751-4e6d-bf5c-bfc90c540747" name="Changes" comment="" />
+      <created>1686946937367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686946937367</updated>
+      <workItem from="1686946938606" duration="318000" />
+      <workItem from="1686947280342" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
