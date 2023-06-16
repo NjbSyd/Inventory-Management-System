@@ -17,5 +17,5 @@ how much to order, and when to order it. Whether you are running a small or larg
 our software will help make your life easier! Get Started.
 ***
  # Code
- Code is given in the *InventoryMgmtSys* Folder.
+ Code is given in the *src* Folder.
  Just Download the repo and open the project in intelliJ😊
