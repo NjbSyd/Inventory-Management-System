@@ -33,7 +33,7 @@
         <dependency>
             <groupId>com.dlsc.formsfx</groupId>
             <artifactId>formsfx-core</artifactId>
-            <version>11.5.0</version>
+            <version>11.6.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.openjfx</groupId>
