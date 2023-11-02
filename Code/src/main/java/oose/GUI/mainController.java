@@ -70,7 +70,7 @@ public class mainController {
             String name = member_name.getText();
             String address = member_address.getText();
             String contact = member_contact.getText();
-            if (name.equals("") || address.equals("") || contact.equals("")) {
+            if (name.isEmpty() || address.isEmpty() || contact.isEmpty()) {
                 JOptionPane.showMessageDialog(null, "1..* fields missing.");
             } else {
                 (new member()).createMember(name, (address.replace(",", " ")), contact);
@@ -106,10 +106,10 @@ public class mainController {
             int itemQty = Integer.parseInt(itemQuantity.getText());
             String[] itemDetails = (new itemsData()).getItemDetails(item);
             ObservableList<oneItem> itemData = FXCollections.observableArrayList(new oneItem(itemDetails[0], itemDetails[1], itemDetails[2], itemDetails[3]));
-            item_Id.setCellValueFactory(new PropertyValueFactory<oneItem, String>("id"));
-            item_Name.setCellValueFactory(new PropertyValueFactory<oneItem, String>("name"));
-            item_Quantity.setCellValueFactory(new PropertyValueFactory<oneItem, String>("quantity"));
-            item_Price.setCellValueFactory(new PropertyValueFactory<oneItem, String>("price"));
+            item_Id.setCellValueFactory(new PropertyValueFactory<>("id"));
+            item_Name.setCellValueFactory(new PropertyValueFactory<>("name"));
+            item_Quantity.setCellValueFactory(new PropertyValueFactory<>("quantity"));
+            item_Price.setCellValueFactory(new PropertyValueFactory<>("price"));
             ObservableList<oneItem> observableList = cartTable.getItems();
             observableList.add(new oneItem(itemDetails[0], itemDetails[1], itemQuantity.getText().trim(), String.valueOf(Integer.parseInt(itemDetails[3]) * Integer.parseInt(itemQuantity.getText().trim()))));
             cartTable.setItems(observableList);
@@ -128,7 +128,7 @@ public class mainController {
     public boolean checkItemInput() {
         boolean cond = false;
         try {
-            if (itemName.getText().trim().equals("") || itemQuantity.getText().trim().equals("")) {
+            if (itemName.getText().trim().isEmpty() || itemQuantity.getText().trim().isEmpty()) {
                 JOptionPane.showMessageDialog(null, "Valid Input Required!");
                 itemName.requestFocus();
                 return false;
@@ -139,8 +139,6 @@ public class mainController {
             if (qty < 1) {
                 JOptionPane.showMessageDialog(null, "Quantity can't be less than 0!");
                 return false;
-            } else {
-                cond = true;
             }
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, e.getMessage());
