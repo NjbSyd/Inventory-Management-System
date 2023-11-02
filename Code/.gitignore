@@ -1,0 +1,33 @@
+*.class
+
+# Build output files
+target/
+
+# Log files
+*.log
+
+# Local configuration files
+local.properties
+
+# Test output files
+test-output/
+
+# Virtual environment
+venv/
+
+# Node.js files
+node_modules/
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+.mvn/
+target/
+
+# Visual Studio files
+*.suo
+*.sln.old
+*.svn*
